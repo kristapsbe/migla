@@ -1,12 +1,12 @@
-[
-    {
-        "title": "",
-        "text": "",
-        "signature": "",
-        "image": "",
-        "time_from": "",
-        "time_to": "",
-        "weight": 1,
-        "opacity": 1
-    }
-]
+{    "entries": [{
+            "title": "title",
+            "text": "text",
+            "signature": "sig",
+            "image": "image.png",
+            "time_from": "2016-01-02 15:04:05",
+            "time_to": "2016-01-02 15:04:05",
+            "weight": 1,
+            "opacity": 1.0
+        }
+    ]
+}
